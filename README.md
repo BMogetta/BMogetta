@@ -5,6 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLnW2FOeLTsFylFA9gggN7yab1ywW0AOVR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunomogetta)
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 [![Bruno's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMogetta&theme=blue-greenl&langs_count=10&layout=compact&custom_title=Repo%27s%20languages%20-%20Including%20static%20files&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,6 +29,14 @@ I’m currently working on
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 <!--
 **BMogetta/BMogetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
