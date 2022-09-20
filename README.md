@@ -6,7 +6,7 @@
 [![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunomogetta)
 [![alt text](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net)
 
-[![Bruno's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMogetta&theme=blue-greenl&langs_count=10&layout=compact&custom_title='Repo's languages - Including static files')](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMogetta&theme=blue-greenl&langs_count=10&layout=compact&custom_title="Repo's languages - Including static files")](https://github.com/anuraghazra/github-readme-stats)
 
 
 I’m currently working on
