@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <!--
 **BMogetta/BMogetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
