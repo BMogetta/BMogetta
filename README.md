@@ -1,7 +1,6 @@
 # 👋 
 ## Hi there  my name is Bruno, I'm a self-taught full-stack developer working as freelancer. I worked as chemical engineer, I love to play the guitar and watch anime.
 
----
 
 <table><tr><td valign="top" width="50%">
 
