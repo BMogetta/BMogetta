@@ -2,15 +2,17 @@
 ## Hi there  my name is Bruno, I'm a self-taught full-stack developer working as freelancer. I worked as chemical engineer, I love to play the guitar and watch anime.
 
 ---
-### **Contact me:**
 
+<table><tr><td valign="top" width="50%">
+
+ ### **Contact me:**
+
+<!--badges from https://github.com/Ileriayo/markdown-badges-->
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmogetta/)
 
+
 ---
-
-[![Bruno's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMogetta&theme=blue-greenl&langs_count=10&layout=compact&custom_title=Repo%27s%20languages%20-%20Including%20static%20files&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### **I’m currently working with**
 
@@ -30,10 +32,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### **I'm currently learning:**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+---
 
 ### **Other things I worked with:**
 
@@ -49,6 +48,15 @@
 
 ---
 
+</td> <td valign="top" width="50%">
+
+### **I'm currently learning:**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
 ### **Places that I hang out:**
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/BMogetta)
@@ -56,20 +64,28 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLnW2FOeLTsFylFA9gggN7yab1ywW0AOVR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunomogetta)
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net)
-<!--
-**BMogetta/BMogetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-badges from https://github.com/Ileriayo/markdown-badges
+<!-- profile dropdown-->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary> &nbsp; <strong>My Stats</strong> </summary>
+  <br/>
+  <table style="width:100%">
+  <tr>
+  <a href="#"><img alt="Top Languages Placeholder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMogetta&langs_count=10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&custom_title=Languages%20-%20w/o%20static%20files&layout=compact" height="192px"/></a>
 
--->
+
+  <b>Note:</b> I excluse JS, CSS&HTML from the list because static files.
+ 
+  <a href="#"><img alt="Github Stats Placeholder" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BMogetta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars"/></a>
+  <!--https://github.com/anuraghazra/github-readme-stats-->
+  
+  <a href="#"><img alt="Time Coding Languages Placeholder" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=BMogetta&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&theme=react"  height="192px"/></a>
+  <br/>
+  </table>
+</details>
+<br/>
+
