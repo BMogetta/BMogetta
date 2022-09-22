@@ -1,5 +1,5 @@
-# 👋 
-## Hi there  my name is Bruno, I'm a self-taught full-stack developer working as freelancer. I worked as chemical engineer, I love to play the guitar and watch anime.
+<h1> 👋 </h1>
+<h2> Hi there  my name is Bruno, I'm a self-taught full-stack developer working as freelancer. I worked as chemical engineer, I love to play the guitar and watch anime. </h2>
 
 
 <table><tr><td valign="top" width="50%">
