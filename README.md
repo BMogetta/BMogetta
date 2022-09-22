@@ -1,4 +1,4 @@
-### Hi there 👋 Work in progres
+### Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer working as freelancer. I worked as chemical engineer, I love to play the guitar and watch anime.
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/BMogetta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmogetta/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brunomogetta)
