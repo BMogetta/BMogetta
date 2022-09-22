@@ -70,9 +70,7 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 
 <!-- profile dropdown-->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary> &nbsp; <strong>My Stats</strong> </summary>
-  <br/>
+
   <table style="width:100%">
   <tr>
   <a href="#"><img alt="Top Languages Placeholder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMogetta&langs_count=10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&custom_title=Languages%20-%20w/o%20static%20files&layout=compact" height="192px"/></a>
@@ -86,6 +84,4 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
   <a href="#"><img alt="Time Coding Languages Placeholder" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=BMogetta&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&theme=react"  height="192px"/></a>
   <br/>
   </table>
-</details>
-<br/>
 
