@@ -3,7 +3,9 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 </h1>
 
 
-<table><tr><td valign="top" width="50%">
+<table>
+ <tr>
+  <td valign="top" width="50%">
 
  ### **Contact me:**
 
@@ -48,7 +50,8 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 
 ---
 
-</td> <td valign="top" width="50%">
+  </td>
+  <td valign="top" width="50%">
 
 ### **I'm currently learning:**
 
@@ -71,10 +74,8 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 <!-- profile dropdown-->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-
-  <tr>
   <a href="#"><img alt="Top Languages Placeholder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMogetta&langs_count=10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&custom_title=Languages%20-%20w/o%20static%20files&layout=compact" height="192px"/></a>
-
+  </td>
 
   <!--<b>Note:</b> I excluse JS, CSS&HTML from the list because static files.-->
    </table>
