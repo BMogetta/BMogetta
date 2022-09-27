@@ -49,7 +49,6 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
 
   </td>
   <td valign="top" align="center" width="50%">
