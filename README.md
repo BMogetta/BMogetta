@@ -77,7 +77,9 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
   </td>
 
   <!--<b>Note:</b> I excluse JS, CSS&HTML from the list because static files.-->
+   </tr>
    </table>
+   
    <table>
     <tr>
      <td valign="center" align="center" width="100%">
