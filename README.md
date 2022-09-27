@@ -51,7 +51,7 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 ---
 
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" align="center" width="50%">
 
 ### **I'm currently learning:**
 
