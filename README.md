@@ -87,7 +87,7 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
      </th><th valign="center" align="center">
       <a href="#"><img alt="Time Coding Languages Placeholder" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=BMogetta&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&theme=react"  height="192px"/></a>
      </th>
-     </trd>
+     </td>
     </tr>
   </table>
 
