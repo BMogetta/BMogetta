@@ -78,12 +78,12 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 
   <!--<b>Note:</b> I excluse JS, CSS&HTML from the list because static files.-->
    </table>
-   <table style='width="100%"'>
+   <table>
     <tr>
-     <th valign="center" align="center" width="40%">
+     <th valign="center" align="center">
       <a href="#"><img alt="Github Stats Placeholder" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BMogetta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars&hide_rank=true"/></a>
   <!--https://github.com/anuraghazra/github-readme-stats-->
-     </th><th valign="center" align="center" width="60%">
+     </th><th valign="center" align="center">
       <a href="#"><img alt="Time Coding Languages Placeholder" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=BMogetta&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&theme=react"  height="192px"/></a>
      </th>
     </tr>
