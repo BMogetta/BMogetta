@@ -3,7 +3,7 @@ Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also c
 </h1>
 
 
-<table>
+<table style='align="center"'>
  <tr>
   <td valign="top" width="50%">
 
