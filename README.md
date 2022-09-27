@@ -1,4 +1,4 @@
-<h1> 
+<h1 style='valign="top" align="center"'> 
 Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer, also chemical engineer, working as back-end freelancer. I love to play the guitar and watch anime.
 </h1>
 
