@@ -1,5 +1,5 @@
 <h1> 
-Hi there 👋 my name is Bruno, I'm a a self-taught full-stack developer focused on web3, also chemical engineer. I love to play the guitar and watch anime.
+Hi there 👋 my name is Bruno and you are in my personal gh account. I'm a a self-taught full-stack developer focused on web3, also chemical engineer. I love to play the guitar and watch anime.
 </h1>
 
 
